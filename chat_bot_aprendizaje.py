@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 """
+
+https://www.youtube.com/watch?v=CkkjXTER2KE&t=378s
 Created on Fri Sep  1 22:40:50 2023
 
 @author: super
